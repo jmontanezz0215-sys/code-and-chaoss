@@ -1,0 +1,1 @@
+export default function NotFound(){return <section className="wrap section cta"><p className="eyebrow">404 / A LITTLE TOO MUCH CHAOS</p><h1>This page wandered off.</h1><p>Let’s get you back to something useful.</p><div className="actions justify-center"><a className="btn primary" href="/">Back to home</a><a className="btn secondary" href="/contact">Contact us</a></div></section>}

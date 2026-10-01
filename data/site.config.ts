@@ -1,0 +1,1 @@
+export const site = {name:'Code & Chaos',tagline:'Crafting Innovation from Entropy',phone:'772-666-1029',tel:'+17726661029',email:'jmontanezz0215@icloud.com',base:'Treasure Coast, Florida',origin:'https://codenchaos.dev',colors:{cyan:'#2ff3ff',magenta:'#e84ff5'},socials:[] as {label:string,url:string}[]};
